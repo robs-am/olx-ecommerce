@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "description": "Um smartphone com funcionalidades X.",
+    "price": 1999.99,
+    "image": "/images/mobile-1.webp",
+    "alt": "Imagem de um Smartphone X"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Y",
+    "description": "Um smartphone com funcionalidades Y.",
+    "price": 2999.99,
+    "image": "/images/mobile-2.jpg",
+    "alt": "Imagem de um Smartphone Y"
+  },
+  {
+    "id": 3,
+    "name": "Smartphone Z",
+    "description": "Um smartphone com funcionalidades Z.",
+    "price": 3999.99,
+    "image": "/images/mobile-3.jpg",
+    "alt": "Imagem de um Smartphone Z"
+  }
+]
